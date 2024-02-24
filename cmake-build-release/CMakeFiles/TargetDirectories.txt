@@ -1,0 +1,3 @@
+C:/Projects/CLionProjects/PG_project/cmake-build-release/CMakeFiles/PG_project.dir
+C:/Projects/CLionProjects/PG_project/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Projects/CLionProjects/PG_project/cmake-build-release/CMakeFiles/rebuild_cache.dir

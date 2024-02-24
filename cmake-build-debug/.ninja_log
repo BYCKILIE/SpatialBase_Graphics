@@ -1,0 +1,17 @@
+# ninja log v5
+2773	4088	7302648226749167	CMakeFiles/PG_project.dir/Window.cpp.obj	859e2726e56e242c
+6049	8794	7302648273311072	PG_project.exe	f12c22d7be12f1d2
+9	3795	7302648223803526	CMakeFiles/PG_project.dir/Board.cpp.obj	e96deeda11e31d30
+2728	3358	7302648219403166	CMakeFiles/PG_project.dir/stb_image.cpp.obj	adaac4477b2781f0
+3796	5479	7302648240640577	CMakeFiles/PG_project.dir/tiny_obj_loader.cpp.obj	6a5c4c2ae9ce3b97
+16	2595	7302648211669676	CMakeFiles/PG_project.dir/Camera.cpp.obj	5495649112083fb
+26	2773	7302648213578149	CMakeFiles/PG_project.dir/Door.cpp.obj	ab749910e591985d
+2653	4207	7302648227927562	CMakeFiles/PG_project.dir/Shader.cpp.obj	64ed2e0b81c6d11d
+32	2652	7302648212112077	CMakeFiles/PG_project.dir/Mesh.cpp.obj	34f5df47c7d2ad21
+21	2728	7302648212979749	CMakeFiles/PG_project.dir/CustomModel.cpp.obj	7fec90825c785b83
+3358	6049	7302648246338975	CMakeFiles/PG_project.dir/main.cpp.obj	238ae8060ce91fcc
+2606	4880	7302648234666271	CMakeFiles/PG_project.dir/Model3D.cpp.obj	e07ff2a6eefa48e7
+37	2641	7302648211923682	CMakeFiles/PG_project.dir/SkyBox.cpp.obj	f8bcfdd9099e0c2a
+2642	4685	7302648232694817	CMakeFiles/PG_project.dir/ModelReferences.cpp.obj	d70fb30e34c5d2fd
+3	1822	7303202460564778	CMakeFiles/PG_project.dir/main.cpp.obj	238ae8060ce91fcc
+1822	2149	7303202463313270	PG_project.exe	f12c22d7be12f1d2
